@@ -1,4 +1,4 @@
-# Hi there, I'm Nico
+# Hi there
 
 I am an eager Computer Science learner at [Imperial College](https://www.imperial.ac.uk/computing), and currently work at [Blockchain](https://www.blockchain.com/).
 
