@@ -1,6 +1,6 @@
 # Hi there
 
-I am an eager Computer Science Master's student at [Imperial College](https://www.imperial.ac.uk/computing), and currently work at [Blockchain](https://www.blockchain.com/).
+I currently work at [Blockchain](https://www.blockchain.com/).
 
 I like building things.
 
