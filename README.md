@@ -1,6 +1,6 @@
 # Hi there
 
-I currently work at [Blockchain](https://www.blockchain.com/).
+I currently work at [Monzo](https://www.monzo.com/), and used to work at [Blockchain](https://blockchain.com).
 
 I like building things.
 
