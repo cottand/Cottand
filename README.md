@@ -9,4 +9,5 @@ You can find me at
 - [nico.dcotta.eu](https://nico.dcotta.eu)
 - nico @ dcotta.eu
 
-A notable project I am building along with [William](https://github.com/williamprofit), [Lancelot](https://github.com/lancelotblanchard), and [Kacper](https://github.com/KacperKazan) which you will not find here is [**DJStreamr**](https://djstreamr.com).
+
+I sometimes post in my (tehcnical) blog [here](https://nico.dcotta.eu/blog).
