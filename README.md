@@ -10,4 +10,4 @@ You can find me at
 - nico (at) dcotta.com
 
 
-I sometimes post in my (tehcnical) blog [here](https://nico.dcotta.com/blog).
+I sometimes post in my (technical) blog [here](https://nico.dcotta.com/blog).
